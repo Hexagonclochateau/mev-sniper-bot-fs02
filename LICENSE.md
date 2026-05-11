@@ -1,4 +1,4 @@
-# 
+# MEV sniper bot automatic Bot - rug-pull-detection and low-cap-gem-detection is the best MEV sniper bot, featuring rug-pull-detection and low-cap-gem-detection. Fast, smart, and
 
 
 
